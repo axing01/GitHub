@@ -9,5 +9,6 @@ public class HelloWorld {
 		System.out.println("ni hao 4");
 		System.out.println("ni hao 5");
 		System.out.println("ni hao 6");
+		System.out.println("ni hao 7");
 	}
 }
